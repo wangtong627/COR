@@ -4,7 +4,7 @@
 
 [Tong Wang](https://wangtong627.github.io/)<sup>1,2</sup>, Guanyu Yang<sup>1</sup>, Nian Liu<sup>2,3</sup>, Zongyan Han<sup>2</sup>, Jinxing Zhou<sup>2</sup>, Salman Khan<sup>2</sup>, Fahad Shahbaz Khan<sup>2</sup>
 
-<sup>1</sup> Southeast University, <sup>2</sup> Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), <sup>3</sup> Northwestern Polytechnical University
+<sup>1</sup> Southeast University, <sup>2</sup> Mohamed Bin Zayed University of Artificial Intelligence, <sup>3</sup> Northwestern Polytechnical University
 
 <!-- [[`Paper`](https://arxiv.org/pdf/2505.16974)] -->
 </div>
