@@ -6,7 +6,7 @@
 
 <sup>1</sup> Southeast University, <sup>2</sup> Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), <sup>3</sup> Northwestern Polytechnical University
 
-[[`Paper`](https://arxiv.org/pdf/2505.16974)]
+<!-- [[`Paper`](https://arxiv.org/pdf/2505.16974)] -->
 </div>
 
 ## 💡 Introduction
