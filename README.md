@@ -1,5 +1,5 @@
 <div align="center">
-<h1> `Composed Object Retrieval` (COR) </h1>
+<h1> Composed Object Retrieval (COR) </h1>
 <h3>Composed Object Retrieval: Object-level Retrieval via Composed Expressions</h3>
 
 Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1</sup>, Nian Liu<sup>2,3</sup>, Zongyan Han<sup>2</sup>, Jinxing Zhou<sup>2</sup>, Salman Khan<sup>2</sup>, Fahad Shahbaz Khan<sup>2</sup>
