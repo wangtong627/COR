@@ -26,7 +26,7 @@ If this codebase is useful to you, please consider citing:
 @article{wang2025cor,
       title={Composed Object Retrieval: Object-level Retrieval via Composed Expressions}, 
       author={Tong Wang and Guanyu Yang and Nian Liu and Zongyan Han and Jinxing Zhou and Salman Khan and Fahad Shahbaz Khan},
-      journal={arXiv preprint arXiv:2505.16974},
+      journal={arXiv preprint arXiv:2508.04424},
       year={2025},
       url={https://arxiv.org/abs/2508.04424}, 
 }
