@@ -1,12 +1,12 @@
 <div align="center">
-<h1> Composed Object Retrieval (COR) </h1>
+<h1> `Composed Object Retrieval` (COR) </h1>
 <h3>Composed Object Retrieval: Object-level Retrieval via Composed Expressions</h3>
 
 Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1</sup>, Nian Liu<sup>2,3</sup>, Zongyan Han<sup>2</sup>, Jinxing Zhou<sup>2</sup>, Salman Khan<sup>2</sup>, Fahad Shahbaz Khan<sup>2</sup>
 
 <sup>1</sup> Southeast University, <sup>2</sup> Mohamed Bin Zayed University of Artificial Intelligence, <sup>3</sup> Northwestern Polytechnical University
 
-<!-- [[`Paper`](https://arxiv.org/pdf/2505.16974)] -->
+[[`Paper`](https://arxiv.org/abs/2508.04424)] 
 </div>
 
 ## 💡 Introduction
@@ -21,7 +21,16 @@ TODO: Provide a detailed description of the COR127K dataset, including its struc
 TODO: Describe the CORE model architecture, its key components, and its performance metrics on the COR127K dataset.
 
 ## 📊 Citation
-TODO: Include the appropriate citation format for the COR paper and dataset.
+If this codebase is useful to you, please consider citing:
+```
+@article{wang2025cor,
+      title={Composed Object Retrieval: Object-level Retrieval via Composed Expressions}, 
+      author={Tong Wang and Guanyu Yang and Nian Liu and Zongyan Han and Jinxing Zhou and Salman Khan and Fahad Shahbaz Khan},
+      journal={arXiv preprint arXiv:2505.16974},
+      year={2025},
+      url={https://arxiv.org/abs/2508.04424}, 
+}
+```
 
 ## 📝 Acknowledgements
 TODO: Acknowledge contributors, funding sources, and any other relevant support for the project.
