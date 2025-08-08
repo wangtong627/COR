@@ -2,12 +2,15 @@
 <h1> Composed Object Retrieval (COR) </h1>
 <h3>Composed Object Retrieval: Object-level Retrieval via Composed Expressions</h3>
 
-Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1</sup>, Nian Liu<sup>2,3</sup>, Zongyan Han<sup>2</sup>, Jinxing Zhou<sup>2</sup>, Salman Khan<sup>2</sup>, Fahad Shahbaz Khan<sup>2</sup>
+Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1</sup>*, Nian Liu<sup>2,3</sup>*, Zongyan Han<sup>2</sup>, Jinxing Zhou<sup>2</sup>, Salman Khan<sup>2</sup>, Fahad Shahbaz Khan<sup>2</sup>
 
 <sup>1</sup> Southeast University, <sup>2</sup> Mohamed Bin Zayed University of Artificial Intelligence, <sup>3</sup> Northwestern Polytechnical University
 
 [[`Paper`](https://arxiv.org/abs/2508.04424)] 
 </div>
+
+## ❗ Update
+**We will release the code repository and dataset within one week.**
 
 ## 💡 Introduction
 Retrieving fine-grained visual content based on user intent is a persistent challenge in multi-modal systems. Existing Composed Image Retrieval (CIR) methods, which combine reference images with textual descriptions, are limited to image-level matching and cannot localize specific objects. To address this, we introduce **Composed Object Retrieval (COR)**, a novel task that advances beyond image-level retrieval to achieve object-level precision. COR enables the retrieval and segmentation of target objects using composed expressions that integrate reference objects with retrieval texts. This task poses significant challenges in retrieval flexibility, requiring systems to accurately identify objects that satisfy the composed expressions while distinguishing them from semantically similar but irrelevant objects within the same scene. 
@@ -34,7 +37,3 @@ If this codebase is useful to you, please consider citing:
 
 ## 📝 Acknowledgements
 TODO: Acknowledge contributors, funding sources, and any other relevant support for the project.
-
-
-## ❗ Update
-**We will release the code repository and dataset within one week.**
