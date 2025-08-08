@@ -2,10 +2,10 @@
 <h1> Composed Object Retrieval (COR) </h1>
 <h3>Composed Object Retrieval: Object-level Retrieval via Composed Expressions</h3>
 
-Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1</sup><span style="color:#FF0000; font-weight:bold">✉️</span>, Nian Liu<sup>2,3</sup><span style="color:#FF0000; font-weight:bold">✉️</span>, Zongyan Han<sup>2</sup>, Jinxing Zhou<sup>2</sup>, Salman Khan<sup>2</sup>, Fahad Shahbaz Khan<sup>2</sup>
+Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1</sup><sup style="color:#E63946; font-size:1.2em; vertical-align: top;">*</sup>, Nian Liu<sup>2,3</sup><sup style="color:#E63946; font-size:1.2em; vertical-align: top;">*</sup>, Zongyan Han<sup>2</sup>, Jinxing Zhou<sup>2</sup>, Salman Khan<sup>2</sup>, Fahad Shahbaz Khan<sup>2</sup>
 
 <sup>1</sup> Southeast University, <sup>2</sup> Mohamed Bin Zayed University of Artificial Intelligence, <sup>3</sup> Northwestern Polytechnical University  
-<small><span style="color:#FF0000">✉️</span> indicates corresponding authors</small>
+<small><sup style="color:#E63946;">*</sup> indicates corresponding authors</small>
 
 
 [[`Paper`](https://arxiv.org/abs/2508.04424)] 
