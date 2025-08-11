@@ -7,9 +7,14 @@ Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1,\*</sup>, Nian Liu<sup>2,3,\*</sup>, 
 <sup>1</sup> Southeast University, <sup>2</sup> Mohamed Bin Zayed University of Artificial Intelligence, <sup>3</sup> Northwestern Polytechnical University  
 <small><span style="color:#E63946; font-weight:bold;">*</span> indicates corresponding authors</small>
 
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/BUAADreamer/CCRK/blob/main/licence)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.04424-red)](https://arxiv.org/abs/2508.04424)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97_Dataset-HF-blue)](https://huggingface.co/datasets/TongWang-NJ/COR_Bench_V1)
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97_Model-HF-blue)](https://huggingface.co/TongWang-NJ/CORE_COR_Bench_V1)
+[![OneDrive Dataset](https://img.shields.io/badge/OneDrive-Dataset-blue)](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/EgPAHh93bBVJq_s34RBmuWIBPU2XmBDdGmIEAAkg2lAo-w?e=stRoK8)
+[![OneDrive Checkpoint](https://img.shields.io/badge/OneDrive-Checkpoint-blue)](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/Er1V5c9G9EtAnQERvFQur_4Brn8M81rYtSuVNuerUIaWbw)
 
-
-[[`Paper`](https://arxiv.org/abs/2508.04424)] 
 </div>
 
 ## ❗ Update
@@ -21,10 +26,15 @@ To support this task, we present **COR127K**, the first large-scale benchmark fo
 ![](figures/framework.png)
 
 ## 🌐 COR127K Dataset
-TODO: Provide a detailed description of the COR127K dataset, including its structure, composition, and examples of retrieval triplets.
+You can download the COR127K dataset from the following links:
+- [Hugging Face Dataset 🤗](https://huggingface.co/datasets/TongWang-NJ/COR_Bench_V1)
+- [OneDrive Dataset](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/EgPAHh93bBVJq_s34RBmuWIBPU2XmBDdGmIEAAkg2lAo-w?e=stRoK8)
 
 ## 🏫 Baseline Model
-TODO: Describe the CORE model architecture, its key components, and its performance metrics on the COR127K dataset.
+The pre-trained weights for our CORE model are available at:
+- [Hugging Face Model 🤗](https://huggingface.co/TongWang-NJ/CORE_COR_Bench_V1)
+- [OneDrive Checkpoint](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/Er1V5c9G9EtAnQERvFQur_4Brn8M81rYtSuVNuerUIaWbw)
+
 
 ## 📊 Citation
 If this codebase is useful to you, please consider citing:
