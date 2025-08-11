@@ -17,6 +17,9 @@ Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1,\*</sup>, Nian Liu<sup>2,3,\*</sup>, 
 
 </div>
 
+## ❗ Update
+Note: This repository is still under construction and not yet complete. Further updates will be added.
+
 ## 🔥 News
 - [2025/08/11] Uploading the training/testing dataset and checkpoint.
 - [2025/08/04] Uploading the [Arxiv paper](https://arxiv.org/abs/2508.04424).
@@ -156,7 +159,7 @@ If this codebase is useful to you, please consider citing:
   url={https://arxiv.org/abs/2508.04424},
 }
 ```
-## 💡 FAQ
+## 🤝 FAQ
 
 - If you want to improve the usability or any piece of advice, please feel free to contact me directly ([E-mail](tong.wang@mbzuai.ac.ae)).
 
