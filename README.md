@@ -167,4 +167,4 @@ If this codebase is useful to you, please consider citing:
 
 This code is built on SAM ([PyTorch](https://github.com/facebookresearch/segment-anything)) and OpenClip ([PyTorch](https://github.com/mlfoundations/open_clip)). We thank the authors for sharing the codes.
 
-[⬆ back to top](#composted-object-retrieval-cor)
+[⬆ back to top](#readme)
