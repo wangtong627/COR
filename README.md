@@ -27,13 +27,13 @@ To support this task, we present **COR127K**, the first large-scale benchmark fo
 
 ## 🌐 COR127K Dataset
 You can download the COR127K (COR_Bench_V1.0) dataset from the following links:
-- [Hugging Face Dataset](https://huggingface.co/datasets/TongWang-NJ/COR_Bench_V1)
-- [OneDrive Dataset](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/EgPAHh93bBVJq_s34RBmuWIBPU2XmBDdGmIEAAkg2lAo-w?e=stRoK8)
+- From [Hugging Face](https://huggingface.co/datasets/TongWang-NJ/COR_Bench_V1)
+- From [OneDrive](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/EgPAHh93bBVJq_s34RBmuWIBPU2XmBDdGmIEAAkg2lAo-w?e=stRoK8)
 
 ## 🏫 Baseline Model
 The checkpoint for our CORE model are available at:
-- [Hugging Face](https://huggingface.co/TongWang-NJ/CORE_COR_Bench_V1)
-- [OneDrive](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/Er1V5c9G9EtAnQERvFQur_4Brn8M81rYtSuVNuerUIaWbw)
+- From [Hugging Face](https://huggingface.co/TongWang-NJ/CORE_COR_Bench_V1)
+- From [OneDrive](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/Er1V5c9G9EtAnQERvFQur_4Brn8M81rYtSuVNuerUIaWbw)
 
 
 ## 📊 Citation
