@@ -17,8 +17,10 @@ Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1,\*</sup>, Nian Liu<sup>2,3,\*</sup>, 
 
 </div>
 
-## ❗ Update
-**We will release the code repository and dataset within one week.**
+## 🔥 News
+- [2025/08/11] Uploading the training/testing dataset and checkpoint.
+- [2025/08/04] Uploading the [Arxiv paper](https://arxiv.org/abs/2508.04424).
+- [2025/08/04] Create repository.
 
 ## 💡 Introduction
 Retrieving fine-grained visual content based on user intent is a persistent challenge in multi-modal systems. Existing Composed Image Retrieval (CIR) methods, which combine reference images with textual descriptions, are limited to image-level matching and cannot localize specific objects. To address this, we introduce **Composed Object Retrieval (COR)**, a novel task that advances beyond image-level retrieval to achieve object-level precision. COR enables the retrieval and segmentation of target objects using composed expressions that integrate reference objects with retrieval texts. This task poses significant challenges in retrieval flexibility, requiring systems to accurately identify objects that satisfy the composed expressions while distinguishing them from semantically similar but irrelevant objects within the same scene. 
@@ -154,8 +156,12 @@ If this codebase is useful to you, please consider citing:
   url={https://arxiv.org/abs/2508.04424},
 }
 ```
+## 💡 FAQ
 
+- If you want to improve the usability or any piece of advice, please feel free to contact me directly ([E-mail](tong.wang@mbzuai.ac.ae)).
 
 ## 📝 Acknowledgements
 
-We would like to thank all contributors, funding sources, and supporters who made this project possible. Specific acknowledgments will be updated soon.
+This code is built on SAM ([PyTorch](https://github.com/facebookresearch/segment-anything)) and OpenClip ([PyTorch](https://github.com/mlfoundations/open_clip)). We thank the authors for sharing the codes.
+
+**[⬆ back to top](#0-preface)** 
