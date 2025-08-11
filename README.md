@@ -47,7 +47,7 @@ OurModel has been tested on Ubuntu OS with the following environments. It may wo
 2. **Navigate to the project directory**:
 
    ```bash
-   cd OpenSeg-R
+   cd COR
    ```
 
 3. **Create a virtual environment**:
