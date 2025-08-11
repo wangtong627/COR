@@ -11,7 +11,7 @@ Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1,\*</sup>, Nian Liu<sup>2,3,\*</sup>, 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.04424-red)](https://arxiv.org/abs/2508.04424)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-blue)](https://huggingface.co/datasets/TongWang-NJ/COR_Bench_V1)
-[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97-Checkpoints-blue)](https://huggingface.co/TongWang-NJ/CORE_COR_Bench_V1)
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97-Checkpoint-blue)](https://huggingface.co/TongWang-NJ/CORE_COR_Bench_V1)
 [![OneDrive Dataset](https://img.shields.io/badge/OneDrive-Dataset-blue)](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/EgPAHh93bBVJq_s34RBmuWIBPU2XmBDdGmIEAAkg2lAo-w?e=stRoK8)
 [![OneDrive Checkpoint](https://img.shields.io/badge/OneDrive-Checkpoint-blue)](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/Er1V5c9G9EtAnQERvFQur_4Brn8M81rYtSuVNuerUIaWbw)
 
