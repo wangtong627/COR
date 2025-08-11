@@ -30,23 +30,142 @@ You can download the COR127K (COR_Bench_V1.0) dataset from the following links:
 - From [Hugging Face](https://huggingface.co/datasets/TongWang-NJ/COR_Bench_V1)
 - From [OneDrive](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/EgPAHh93bBVJq_s34RBmuWIBPU2XmBDdGmIEAAkg2lAo-w?e=stRoK8)
 
+## 📦 Installation
+
+The training and testing experiments are conducted using PyTorch. Below are the steps to set up the environment and install the necessary dependencies.
+
+### Prerequisites
+
+OurModel has been tested on Ubuntu OS with the following environments. It may work on other operating systems, but compatibility is not guaranteed.
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/wangtong627/COR.git
+   ```
+
+2. **Navigate to the project directory**:
+
+   ```bash
+   cd OpenSeg-R
+   ```
+
+3. **Create a virtual environment**:
+
+   ```bash
+   conda create -n COR_Base python=3.10
+   ```
+
+4. **Activate the virtual environment**:
+
+   ```bash
+   conda activate COR_Base
+   ```
+
+5. **Install dependencies**:
+   We provide `environment.yml` and `requirements.txt` for setting up the environment. You can use either of the following commands:
+
+   ```bash
+   conda env create -f environment.yml
+   ```
+
+   or
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
+## 🌐 COR127K Dataset
+
+You can download the COR127K (COR_Bench_V1.0) dataset from the following links:
+
+- From [Hugging Face](https://huggingface.co/datasets/TongWang-NJ/COR_Bench_V1)
+- From [OneDrive](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/EgPAHh93bBVJq_s34RBmuWIBPU2XmBDdGmIEAAkg2lAo-w?e=stRoK8)
+
+### Dataset Structure
+
+The dataset is organized as follows:
+
+```
+/data2/wang_tong/proj_cirseg/COR_Bench_V1
+├── csv_data
+└── dataset
+    ├── Test_1
+    │   ├── image
+    │   └── mask
+    │       ├── 1q0n
+    │       ├── 1q1n
+    │       ├── 1q2n
+    │       ├── 2q0n
+    │       ├── 2q1n
+    │       ├── 3q0n
+    │       └── sup
+    ├── Test_2
+    │   ├── image
+    │   └── mask
+    │       ├── 1q0n
+    │       ├── 1q1n
+    │       ├── 1q2n
+    │       ├── 2q0n
+    │       ├── 2q1n
+    │       ├── 3q0n
+    │       └── sup
+    └── Train
+        ├── image
+        └── mask
+            ├── 1q0n
+            ├── 1q1n
+            ├── 1q2n
+            ├── 2q0n
+            ├── 2q1n
+            ├── 3q0n
+            └── sup
+```
+
+---
+
 ## 🏫 Baseline Model
-The checkpoint for our CORE model are available at:
+
+The checkpoint for our CORE model is available at:
+
 - From [Hugging Face](https://huggingface.co/TongWang-NJ/CORE_COR_Bench_V1)
 - From [OneDrive](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/Er1V5c9G9EtAnQERvFQur_4Brn8M81rYtSuVNuerUIaWbw)
 
+---
+
+## 🛠 Training
+
+Training is performed using the `accelerate` library. The configuration file is located at `train_config_m3.yaml`. To start training, run the following command:
+
+```bash
+accelerate launch \
+  --config_file your_model_path/config/train_config/a_cfg.yaml \
+  your_model_path/my_train_a.py \
+  --config your_model_path/config/train_config/train_config_m3.yaml
+```
+
+Ensure that `your_model_path` is replaced with the actual path to your model directory.
+
+---
 
 ## 📊 Citation
+
 If this codebase is useful to you, please consider citing:
-```
+
+```bibtex
 @article{wang2025cor,
-      title={Composed Object Retrieval: Object-level Retrieval via Composed Expressions}, 
-      author={Tong Wang and Guanyu Yang and Nian Liu and Zongyan Han and Jinxing Zhou and Salman Khan and Fahad Shahbaz Khan},
-      journal={arXiv preprint arXiv:2508.04424},
-      year={2025},
-      url={https://arxiv.org/abs/2508.04424}, 
+  title={Composed Object Retrieval: Object-level Retrieval via Composed Expressions},
+  author={Tong Wang and Guanyu Yang and Nian Liu and Zongyan Han and Jinxing Zhou and Salman Khan and Fahad Shahbaz Khan},
+  journal={arXiv preprint arXiv:2508.04424},
+  year={2025},
+  url={https://arxiv.org/abs/2508.04424},
 }
 ```
 
+---
+
 ## 📝 Acknowledgements
-TODO: Acknowledge contributors, funding sources, and any other relevant support for the project.
+
+We would like to thank all contributors, funding sources, and supporters who made this project possible. Specific acknowledgments will be updated soon.
