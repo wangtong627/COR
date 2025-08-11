@@ -26,14 +26,14 @@ To support this task, we present **COR127K**, the first large-scale benchmark fo
 ![](figures/framework.png)
 
 ## 🌐 COR127K Dataset
-You can download the COR127K dataset from the following links:
-- [Hugging Face Dataset 🤗](https://huggingface.co/datasets/TongWang-NJ/COR_Bench_V1)
+You can download the COR127K (COR_Bench_V1.0) dataset from the following links:
+- [Hugging Face Dataset](https://huggingface.co/datasets/TongWang-NJ/COR_Bench_V1)
 - [OneDrive Dataset](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/EgPAHh93bBVJq_s34RBmuWIBPU2XmBDdGmIEAAkg2lAo-w?e=stRoK8)
 
 ## 🏫 Baseline Model
-The pre-trained weights for our CORE model are available at:
-- [Hugging Face Model 🤗](https://huggingface.co/TongWang-NJ/CORE_COR_Bench_V1)
-- [OneDrive Checkpoint](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/Er1V5c9G9EtAnQERvFQur_4Brn8M81rYtSuVNuerUIaWbw)
+The checkpoint for our CORE model are available at:
+- [Hugging Face](https://huggingface.co/TongWang-NJ/CORE_COR_Bench_V1)
+- [OneDrive](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/Er1V5c9G9EtAnQERvFQur_4Brn8M81rYtSuVNuerUIaWbw)
 
 
 ## 📊 Citation
