@@ -75,7 +75,6 @@ OurModel has been tested on Ubuntu OS with the following environments. It may wo
    pip install -r requirements.txt
    ```
 
----
 
 ## 🌐 COR127K Dataset
 
@@ -124,7 +123,6 @@ The dataset is organized as follows:
             └── sup
 ```
 
----
 
 ## 🏫 Baseline Model
 
@@ -133,7 +131,6 @@ The checkpoint for our CORE model is available at:
 - From [Hugging Face](https://huggingface.co/TongWang-NJ/CORE_COR_Bench_V1)
 - From [OneDrive](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/Er1V5c9G9EtAnQERvFQur_4Brn8M81rYtSuVNuerUIaWbw)
 
----
 
 ## 🛠 Training
 
@@ -148,7 +145,6 @@ accelerate launch \
 
 Ensure that `your_model_path` is replaced with the actual path to your model directory.
 
----
 
 ## 📊 Citation
 
@@ -164,7 +160,6 @@ If this codebase is useful to you, please consider citing:
 }
 ```
 
----
 
 ## 📝 Acknowledgements
 
