@@ -1,0 +1,26 @@
+# 需要修改的
+epoch: 15
+lr: 1.0e-4  
+lr_scheduler: None  # 可选值: [ExponentialLR CosineAnnealingLR CosineAnnealingWarmRestarts CosineLRScheduler None]
+batch_size: 10
+load_sam_pretrained_checkpoint: "/data2/wang_tong/model_params/sam_vit_b_01ec64.pth"
+# load_sam_pretrained_checkpoint: "/data2/wang_tong/model_params/sam_vit_l_0b3195.pth"
+load_siglip_pretrained_checkpoint: "/data2/wang_tong/model_params/ViT-B-16-SigLIP-384.bin"
+sam_model_name: "sam_base"
+# sam_model_name: "sam_large" 
+siglip_model_name: "ViT-B-16-SigLIP-384"
+dataset_path: "/data2/wang_tong/proj_cirseg/28_dataset_cirseg_2_9_all/cirseg_2_9_dataset"
+train_csv: "/data2/wang_tong/proj_cirseg/31_dataset_cirseg_4_0/cirseg_4_1_csv_data/Train.csv"
+val_csv: "/data2/wang_tong/proj_cirseg/31_dataset_cirseg_4_0/cirseg_4_1_csv_data/Test_1.csv"
+train_model_save_path: "/data2/wang_tong/proj_cirseg/my_models/models_ckpt/DGX_32"
+mask_pooling: "MaskAdapterPooling" # MaskedPooling or MaskAdapterPooling
+multimask_output: false 
+# loss_lambda: 1 # loss 调参
+# 不需要修改的
+optimizer: "AdamW"  # 可选值: ["AdamW", "Adam", "SGD"]
+lr_decay_rate: 0.1
+lr_decay_epoch: 50
+gradient_clip: 0.5
+load_checkpoint_path: null  # 如果没有检查点则设为 null
+train_model_save_epoch: 5
+batch_record_interval: 10
