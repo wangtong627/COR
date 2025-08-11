@@ -25,11 +25,6 @@ Retrieving fine-grained visual content based on user intent is a persistent chal
 To support this task, we present **COR127K**, the first large-scale benchmark for COR, comprising 127,166 retrieval triplets across 408 categories with diverse semantic transformations. We also propose **CORE**, a unified end-to-end model that integrates reference region encoding, adaptive visual-textual interaction, and region-level contrastive learning. Extensive experiments demonstrate that CORE significantly outperforms existing models in both base and novel categories, establishing a robust and effective baseline for this challenging task. This work paves the way for future research in fine-grained multi-modal retrieval.
 ![](figures/framework.png)
 
-## 🌐 COR127K Dataset
-You can download the COR127K (COR_Bench_V1.0) dataset from the following links:
-- From [Hugging Face](https://huggingface.co/datasets/TongWang-NJ/COR_Bench_V1)
-- From [OneDrive](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/EgPAHh93bBVJq_s34RBmuWIBPU2XmBDdGmIEAAkg2lAo-w?e=stRoK8)
-
 ## 📦 Installation
 
 The training and testing experiments are conducted using PyTorch. Below are the steps to set up the environment and install the necessary dependencies.
