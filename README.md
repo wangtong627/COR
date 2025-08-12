@@ -6,7 +6,6 @@ Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1,\*</sup>, Nian Liu<sup>2,3,\*</sup>, 
 
 <sup>1</sup> Southeast University, <sup>2</sup> Mohamed Bin Zayed University of Artificial Intelligence, <sup>3</sup> Northwestern Polytechnical University  
 <small><span style="color:#E63946; font-weight:bold;">*</span> indicates corresponding authors</small>
-
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/BUAADreamer/CCRK/blob/main/licence)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.04424-red)](https://arxiv.org/abs/2508.04424)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org/)
@@ -14,11 +13,10 @@ Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1,\*</sup>, Nian Liu<sup>2,3,\*</sup>, 
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97-Checkpoint-blue)](https://huggingface.co/TongWang-NJ/CORE_COR_Bench_V1)
 [![OneDrive Dataset](https://img.shields.io/badge/OneDrive-Dataset-blue)](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/EgPAHh93bBVJq_s34RBmuWIBPU2XmBDdGmIEAAkg2lAo-w?e=stRoK8)
 [![OneDrive Checkpoint](https://img.shields.io/badge/OneDrive-Checkpoint-blue)](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/Er1V5c9G9EtAnQERvFQur_4Brn8M81rYtSuVNuerUIaWbw)
-
 </div>
 
-## ❗ Update
-Note: This repository is still under construction and not yet complete. Further updates will be added.
+<!-- ## ❗ Update
+Note: This repository is still under construction and not yet complete. Further updates will be added. -->
 
 ## 🔥 News
 - [2025/08/11] Uploading the training/testing dataset and checkpoint.
