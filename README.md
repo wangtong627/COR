@@ -6,6 +6,7 @@ Tong Wang<sup>1,2</sup>, Guanyu Yang<sup>1,\*</sup>, Nian Liu<sup>2,3,\*</sup>, 
 
 <sup>1</sup> Southeast University, <sup>2</sup> Mohamed Bin Zayed University of Artificial Intelligence, <sup>3</sup> Northwestern Polytechnical University  
 <small><span style="color:#E63946; font-weight:bold;">*</span> indicates corresponding authors</small>
+
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/BUAADreamer/CCRK/blob/main/licence)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.04424-red)](https://arxiv.org/abs/2508.04424)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org/)
