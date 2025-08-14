@@ -150,7 +150,7 @@ Ensure that `your_model_path` is replaced with the actual path to your model dir
 If this codebase is useful to you, please consider citing:
 
 ```bibtex
-@article{wang2025cor,
+@article{wang2025composed,
   title={Composed Object Retrieval: Object-level Retrieval via Composed Expressions},
   author={Tong Wang and Guanyu Yang and Nian Liu and Zongyan Han and Jinxing Zhou and Salman Khan and Fahad Shahbaz Khan},
   journal={arXiv preprint arXiv:2508.04424},
