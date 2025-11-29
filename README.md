@@ -16,6 +16,10 @@
 [![OneDrive Checkpoint](https://img.shields.io/badge/OneDrive-Checkpoint-blue)](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/tong_wang_mbzuai_ac_ae/Er1V5c9G9EtAnQERvFQur_4Brn8M81rYtSuVNuerUIaWbw)
 </div>
 
+<p align="center">
+    <img src="https://i.imgur.com/waxVImv.png" alt="COR">
+</p>
+
 <!-- ## ❗ Update
 Note: This repository is still under construction and not yet complete. Further updates will be added. -->
 
